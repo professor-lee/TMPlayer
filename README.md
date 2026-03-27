@@ -288,3 +288,8 @@ When the playlist is open:
 [AGPL-3.0 license](LICENSE)
 
 Third-party notices: [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)
+
+---
+## Star History
+
+[![Star History Chart](https://api.star-history.com/image?repos=professor-lee/TMPlayer&type=date&legend=top-left)](https://www.star-history.com/?repos=professor-lee%2FTMPlayer&type=date&legend=top-left)
